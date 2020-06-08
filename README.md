@@ -1,1 +1,2 @@
 # homebridge-lenovosmartbulb-plugin
+The Lenovo Smart Platform currently doesn't have a repository nor plugin. So I thought I would give it a go as one of my first projects. Expect Errors and Bugs galore. I really hope not. But feel free to contribute/add. It's going to be one of those "dump it and run" repos, because this is really just a hobby for me and I can't spend countless hours updating code. 
